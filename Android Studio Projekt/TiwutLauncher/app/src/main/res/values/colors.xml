@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Grundfarben -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- App-Theme Farben -->
+    <color name="colorPrimary">#FF2C3E50</color>
+    <color name="colorPrimaryVariant">#FF1A242F</color>
+
+    <!-- Standard Material Design Farben -->
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+</resources>
