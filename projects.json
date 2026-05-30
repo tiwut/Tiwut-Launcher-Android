@@ -1,1 +1,16 @@
-
+[
+  {
+    "repo": "tiwut/Tiwut-Browser-Android",
+    "description": "Tiwut Browser is a fast, highly-customizable, and secure Android web browser built with Kotlin and Jetpack Compose.",
+    "buildSystem": "none",
+    "cloneUrl": "https://github.com/tiwut/Tiwut-Browser-Android.git",
+    "releases": [
+      {
+        "version": "v1.1.1",
+        "name": "app-debug.apk",
+        "url": "https://github.com/tiwut/Tiwut-Browser-Android/releases/download/v1.1.1/app-debug.apk",
+        "size": 18350080
+      }
+    ]
+  }
+]
